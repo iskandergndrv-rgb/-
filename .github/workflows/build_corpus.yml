@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   collect:
@@ -25,6 +25,19 @@ jobs:
       - name: Collect and clean corpus
         run: python collect_corpus.py
 
+      - name: Validate generated files
+        run: |
+          test -s danl999_r_castaneda_corpus_2025-07-13_2026-07-12.txt
+          test -s corpus_stats.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          stats = json.loads(Path('corpus_stats.json').read_text(encoding='utf-8'))
+          assert stats['included_units'] == stats['included_posts'] + stats['included_comments']
+          assert stats['author_text_words'] >= 30000, stats
+          print(json.dumps(stats, ensure_ascii=False, indent=2))
+          PY
+
       - name: Upload corpus artifact
         uses: actions/upload-artifact@v4
         with:
@@ -34,3 +47,11 @@ jobs:
             corpus_stats.json
           if-no-files-found: error
           retention-days: 7
+
+      - name: Commit generated corpus for retrieval
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add danl999_r_castaneda_corpus_2025-07-13_2026-07-12.txt corpus_stats.json
+          git commit -m "Add generated danl999 corpus" || exit 0
+          git push
