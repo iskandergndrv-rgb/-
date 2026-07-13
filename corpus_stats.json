@@ -1,0 +1,19 @@
+{
+  "author": "danl999",
+  "subreddit": "castaneda",
+  "criterion": "A",
+  "period_start_utc_inclusive": "2025-07-13T00:00:00Z",
+  "period_end_utc_exclusive": "2026-07-13T00:00:00Z",
+  "api_posts": 100,
+  "api_comments": 1804,
+  "included_posts": 100,
+  "included_comments": 1804,
+  "included_units": 1904,
+  "author_text_words": 380776,
+  "quote_lines_marked": 11,
+  "link_dump_lines_removed": 14,
+  "request_count": 55,
+  "known_gaps": [],
+  "skipped": {},
+  "output": "danl999_r_castaneda_corpus_2025-07-13_2026-07-12.txt"
+}
