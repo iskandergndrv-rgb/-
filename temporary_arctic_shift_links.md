@@ -1,0 +1,31 @@
+# Temporary Arctic Shift query links
+
+## comments
+- [comments-2025-07-13-2025-08-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2025-07-13T00%3A00%3A00Z&before=2025-08-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2025-08-01-2025-09-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2025-08-01T00%3A00%3A00Z&before=2025-09-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2025-09-01-2025-10-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2025-09-01T00%3A00%3A00Z&before=2025-10-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2025-10-01-2025-11-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2025-10-01T00%3A00%3A00Z&before=2025-11-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2025-11-01-2025-12-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2025-11-01T00%3A00%3A00Z&before=2025-12-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2025-12-01-2026-01-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2025-12-01T00%3A00%3A00Z&before=2026-01-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2026-01-01-2026-02-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2026-01-01T00%3A00%3A00Z&before=2026-02-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2026-02-01-2026-03-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2026-02-01T00%3A00%3A00Z&before=2026-03-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2026-03-01-2026-04-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2026-03-01T00%3A00%3A00Z&before=2026-04-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2026-04-01-2026-05-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2026-04-01T00%3A00%3A00Z&before=2026-05-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2026-05-01-2026-06-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2026-05-01T00%3A00%3A00Z&before=2026-06-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2026-06-01-2026-07-01](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2026-06-01T00%3A00%3A00Z&before=2026-07-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [comments-2026-07-01-2026-07-13](https://arctic-shift.photon-reddit.com/api/comments/search?author=danl999&subreddit=castaneda&after=2026-07-01T00%3A00%3A00Z&before=2026-07-13T00%3A00%3A00Z&sort=asc&limit=auto)
+
+## posts
+- [posts-2025-07-13-2025-08-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2025-07-13T00%3A00%3A00Z&before=2025-08-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2025-08-01-2025-09-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2025-08-01T00%3A00%3A00Z&before=2025-09-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2025-09-01-2025-10-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2025-09-01T00%3A00%3A00Z&before=2025-10-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2025-10-01-2025-11-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2025-10-01T00%3A00%3A00Z&before=2025-11-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2025-11-01-2025-12-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2025-11-01T00%3A00%3A00Z&before=2025-12-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2025-12-01-2026-01-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2025-12-01T00%3A00%3A00Z&before=2026-01-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2026-01-01-2026-02-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2026-01-01T00%3A00%3A00Z&before=2026-02-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2026-02-01-2026-03-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2026-02-01T00%3A00%3A00Z&before=2026-03-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2026-03-01-2026-04-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2026-03-01T00%3A00%3A00Z&before=2026-04-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2026-04-01-2026-05-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2026-04-01T00%3A00%3A00Z&before=2026-05-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2026-05-01-2026-06-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2026-05-01T00%3A00%3A00Z&before=2026-06-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2026-06-01-2026-07-01](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2026-06-01T00%3A00%3A00Z&before=2026-07-01T00%3A00%3A00Z&sort=asc&limit=auto)
+- [posts-2026-07-01-2026-07-13](https://arctic-shift.photon-reddit.com/api/posts/search?author=danl999&subreddit=castaneda&after=2026-07-01T00%3A00%3A00Z&before=2026-07-13T00%3A00%3A00Z&sort=asc&limit=auto)
